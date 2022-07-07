@@ -11,12 +11,12 @@ Users should be able to:
 
 ### Screenshot
 
-![/solutions/print.png](./screenshot.jpg)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/fqntT5w/print.png" alt="print" border="0" /></a>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://card-nft-preview-bice.vercel.app/
+
 
 ### Built with
 
